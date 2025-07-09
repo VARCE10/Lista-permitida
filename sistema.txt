@@ -1,0 +1,7 @@
+microsoft.com
+windowsupdate.com
+google.com
+gstatic.com
+icloud.com
+apple.com
+cdn.apple.com
