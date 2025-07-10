@@ -30,3 +30,4 @@ gstatic.com
 icloud.com
 apple.com
 cdn.apple.com
+zerotier.com
